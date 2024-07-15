@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a CS freshman at BITS Pilani and Scaler Scho
 
 ## 🚀 About Me
 
-- 🔭 I’m currently mastering [**DSA**](https://leetcode.com/u/null_Hawk/)
+- ☕ I’m currently grinding [**DSA**](https://leetcode.com/u/null_Hawk/)
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on projects related to ML or Web development
 - 📫 How to reach me: suryanshsinghshakya1@gmail.com
