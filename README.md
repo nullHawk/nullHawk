@@ -42,6 +42,7 @@ Here are some organizations I’m proud to contribute to:
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
   ![PyQt](https://img.shields.io/badge/-PyQt-41BDF4?logo=python&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white)
+  ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
