@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I’m a CS freshman at BITS Pilani and Scaler Scho
 
 - ☕ I’m currently grinding [**DSA**](https://leetcode.com/u/null_Hawk/)
 - 🌱 I’m currently learning AI/ML
+- 🏢 Working at IIT Bombay as ML Intern.
 - 👯 I’m looking to collaborate on projects related to ML or Web development
 - 📫 How to reach me: suryanshsinghshakya1@gmail.com
 - 😄 Pronouns: He/Him
