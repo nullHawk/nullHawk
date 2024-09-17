@@ -1,6 +1,6 @@
 # Hi there, I'm Suryansh Shakya 👋
 
-Welcome to my GitHub profile! I’m a CS freshman at BITS Pilani and Scaler School of Technology aspiring to be a Computer Scientist. Here you’ll find some of my work, projects, and contributions. Feel free to explore and reach out if you have any questions or just want to connect!
+Welcome to my GitHub profile! I’m a CS freshman at BITS Pilani aspiring to be a Computer Scientist. Here you’ll find some of my work, projects, and contributions. Feel free to explore and reach out if you have any questions or just want to connect!
 
 ## 🚀 About Me
 
